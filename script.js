@@ -280,7 +280,7 @@ function closeModalFunc() {
 }
 
 function redirectToPayment() {
-    window.open('https://pay.kiwify.com.br/xmnJvNs?afid=wjhfUALO', '_blank');
+    window.open('https://pay.hotmart.com/Y105159828Y', '_blank');
     closeModalFunc();
 }
 
@@ -363,7 +363,7 @@ if (closeConfirmationModal) {
 // FUNÇÃO PARA ENVIAR E-MAIL REAL - CONTEÚDO PREMIUM
 // ============================================
 async function sendWelcomeEmail(userName, userEmail, mainIssue) {
-    const paymentLink = 'https://pay.kiwify.com.br/xmnJvNs?afid=wjhfUALO';
+    const paymentLink = 'https://pay.hotmart.com/Y105159828Y';
     
     // CONTEÚDO DO E-MAIL PREMIUM E ESTRUTURADO
     const emailContent = `
